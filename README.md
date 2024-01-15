@@ -59,16 +59,12 @@ you\'ll make recommendations.
 
 ## **Details of files given**
 
--   Lead Score Case Study Aayushi Meenu .ipynb : The python file showing
+-   Lead Scoring Case Study Adarsh Bera .ipynb : The python file showing
     > coding and data analysis
 
--   Assignment Subjective Questions.pdf : Some subjective questions
+-   Lead Scoring Assignment_Subjective Questions.pdf : Some subjective questions
     > answered
 
--   Lead Score Case Study.pdf : Final Presentation
+-   Lead Scoring Case Study_PPT.pdf : Final Presentation
 
--   Leads.csv : Data worked on
-
--   Leads Data Dictionary.xlsx : Data Dictionary
-
--   Summary.pdf : Summary on what\'s done in the entire py file
+-   Summary Lead Scoring.pdf : Summary on what's done in the entire py file
